@@ -3296,6 +3296,10 @@ react-devtools-core@^2.5.0:
     shell-quote "^1.6.1"
     ws "^2.0.3"
 
+react-native-fcm@^10.0.3:
+  version "10.0.3"
+  resolved "https://registry.yarnpkg.com/react-native-fcm/-/react-native-fcm-10.0.3.tgz#1dc538ed889f90b7a5bc1d0530cc516e69b09e8c"
+
 react-native@0.50.4:
   version "0.50.4"
   resolved "https://registry.yarnpkg.com/react-native/-/react-native-0.50.4.tgz#194f5da4939087b3acee712a503475f4942dca7e"

@@ -9,6 +9,8 @@ target 'RoomBookingValtech' do
   pod 'Firebase/Core'
   pod 'Firebase/Messaging'
 
+  pod 'react-native-fcm', :path => '../node_modules/react-native-fcm'
+
   target 'RoomBookingValtechTests' do
     inherit! :search_paths
     # Pods for testing

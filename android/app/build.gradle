@@ -98,7 +98,7 @@ android {
     buildToolsVersion '26.0.2'
 
     defaultConfig {
-        applicationId "com.valtech.roombookingvaltech"
+        applicationId "com.roombookingvaltech"
         minSdkVersion 16
         targetSdkVersion 22
         versionCode 1
@@ -137,6 +137,7 @@ android {
 }
 
 dependencies {
+    compile project(':react-native-fcm')
     implementation 'com.google.firebase:firebase-messaging:11.0.4'
     compile fileTree(include: ['*.jar'], dir: 'libs')
     compile 'com.android.support:appcompat-v7:23.0.1'
