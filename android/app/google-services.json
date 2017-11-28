@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "927366770628",
+    "firebase_url": "https://room-booking-valtech.firebaseio.com",
+    "project_id": "room-booking-valtech",
+    "storage_bucket": "room-booking-valtech.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927366770628:android:7d2858d0785e7102",
+        "android_client_info": {
+          "package_name": "com.valtech.roombookingvaltech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927366770628-87uuqjqra42d36nme28hggcmulbdpnhq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.valtech.roombookingvaltech",
+            "certificate_hash": "8a4c22017dfac8bc72c3830808c08bbba3ecad8e"
+          }
+        },
+        {
+          "client_id": "927366770628-kp0l4ebt3k4ndvusi51k1kjm7kc4chqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_kgn5gnobD7SHMK_5IcaC6-JlY9jo5q8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927366770628-b7p9o7ube5q1fkpf89h2d34h7lik0q19.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.valtech.RoomBookingValtech"
+              }
+            },
+            {
+              "client_id": "927366770628-kp0l4ebt3k4ndvusi51k1kjm7kc4chqs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
